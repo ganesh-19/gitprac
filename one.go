@@ -5,9 +5,14 @@ import "fmt"
 func calc(){
 	fmt.Println("This is another function")
 }
+
+func function3(){
+	fmt.Println("This is function3")
+}
 func main(){
 	name := "Max"
 	fmt.Println("Hello", name)
 	fmt.Println("Welcome")
 	calc()
+	function3()
 }
