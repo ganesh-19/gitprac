@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func calc(){
-	fmt.Println("This is another function")
+	fmt.Println("This is another function Some changes are made")
 }
 
 func main(){
