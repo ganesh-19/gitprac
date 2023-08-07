@@ -4,6 +4,7 @@ import "fmt"
 
 func calc(){
 	fmt.Println("This is another function")
+	fmt.Println("This is one more function")
 }
 
 func main(){
